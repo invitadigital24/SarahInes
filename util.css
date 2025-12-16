@@ -45,6 +45,20 @@
 }
 
 @font-face {
+    font-family: 'ha';
+    src: url('ha.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ber';
+    src: url('ber.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
     font-display: swap;
     font-family: canvasans;
     font-style: normal;
@@ -135,6 +149,15 @@
 .font_canvasans3 {
     font-family: "canvasans3";
 }
+
+.font_ha {
+    font-family: "ha";
+}
+
+.font_ber {
+    font-family: "ber";
+}
+
 
 .my_btn{
     background: transparent;
